@@ -31,5 +31,4 @@ else:
     print('Вы ошиблись!')
 candy.append(fv)
 print(candy)
-print('Теперь эта кофнета будет 5 по номеру!')
-print(candy.count(fv))
+print('Эта кофнета теперь под номером -', candy.count(fv))
