@@ -27,4 +27,3 @@ elif gh == 'Да':
     print(input('Какую кофету вы хотите добавить?'))
 elif gh == 'да':
     print(input('Какую кофету вы хотите добавить?'))
-print(dir(candy))
